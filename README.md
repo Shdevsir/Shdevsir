@@ -1,12 +1,12 @@
 ## Hello ladies and gentelmen👋 
-## My name is Stanislav and i python developer :sunglasses:
+## My name is Stanislav and I'm python developer:sunglasses:
 
 ### Shortly about myself:
-* The lazy athlete is me
-* I'm learning backend development 
-* Also, I'm learning English
-* I like to walk a lot
-* Spanish is also about me
+* The lazy athlete is me:muscle:
+* I'm learning backend development:man_technologist:
+* Also, I'm learning English:gb:
+* I like to walk a lot:walking_man:
+* Spanish is also about me:es:
 
 ### Tech Stack:
 * Python 3
@@ -15,20 +15,3 @@
 * PostgreSQL
 * Flask
 * Git
-
-
-
-<!--
-**Shdevsir/Shdevsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

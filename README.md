@@ -1,4 +1,22 @@
-### Hi there 👋 :+1:
+## Hello ladies and gentelmen👋 
+## My name is Stanislav and i python developer :sunglasses:
+
+### Shortly about myself:
+* The lazy athlete is me
+* I'm learning backend development 
+* Also, I'm learning English
+* I like to walk a lot
+* Spanish is also about me
+
+### Tech Stack:
+* Python 3
+* Docker
+* SQLAlchemy
+* PostgreSQL
+* Flask
+* Git
+
+
 
 <!--
 **Shdevsir/Shdevsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

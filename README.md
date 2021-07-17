@@ -11,6 +11,7 @@
 ### Tech Stack:
 * Python 3
 * Docker
+* Django
 * SQLAlchemy
 * PostgreSQL
 * Flask

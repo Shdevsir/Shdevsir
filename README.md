@@ -9,10 +9,20 @@
 * Spanish is also about me
 
 ### Tech Stack:
-* Python 3
-* Docker
-* Django
-* SQLAlchemy
-* PostgreSQL
+* Python 3+
 * Flask
+* Flask-RESTful
+* Django
+* DRF
+* Docker
+* AWS (boto3, Lambda(using
+Python), S3, Step Functions,
+Secutiry, AWS API Gateway,
+AWS SES, DynamoDB)
+* SQLAlchemy
+* SQLite
+* PostgreSQL
+* unittest/pytest
+* Swagger
 * Git
+* Linux/Windows

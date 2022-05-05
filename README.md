@@ -26,3 +26,5 @@ AWS SES, DynamoDB)
 * Swagger
 * Git
 * Linux/Windows
+
+[Task](https://github.com/Shdevsir/TaskFutureProofTechnology)
